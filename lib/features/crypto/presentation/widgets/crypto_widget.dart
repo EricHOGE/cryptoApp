@@ -1,6 +1,6 @@
-import 'package:crypto/features/crypto/presentation/widgets/price_down_widget.dart';
-import 'package:crypto/features/crypto/presentation/widgets/price_up_widget.dart';
-import 'package:crypto/features/detail/presentation/pages/detail_page.dart';
+import 'package:crypto_app/features/crypto/presentation/widgets/price_down_widget.dart';
+import 'package:crypto_app/features/crypto/presentation/widgets/price_up_widget.dart';
+import 'package:crypto_app/features/detail/presentation/pages/detail_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:numeral/numeral.dart';

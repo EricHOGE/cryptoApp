@@ -1,4 +1,4 @@
-import 'package:crypto/features/crypto/domain/repositories/cryptos_repository.dart';
+import 'package:crypto_app/features/crypto/domain/repositories/cryptos_repository.dart';
 
 import '../entities/crypto_entity.dart';
 

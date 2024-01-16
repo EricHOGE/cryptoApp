@@ -1,4 +1,4 @@
-import 'package:crypto/crypto_app.dart';
+import 'package:crypto_app/crypto_app.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

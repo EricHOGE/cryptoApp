@@ -1,4 +1,4 @@
-import 'package:crypto/core/errors/exceptions.dart';
+import 'package:crypto_app/core/errors/exceptions.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 

@@ -1,4 +1,4 @@
-import 'package:crypto/core/errors/failure.dart';
+import 'package:crypto_app/core/errors/failure.dart';
 import 'package:equatable/equatable.dart';
 
 import '../../domain/entities/chart_entity.dart';

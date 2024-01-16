@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:crypto/features/chart/domain/usecases/get_chart_usecase.dart';
-import 'package:crypto/features/chart/presentation/cubit/chart_state.dart';
+import 'package:crypto_app/features/chart/domain/usecases/get_chart_usecase.dart';
+import 'package:crypto_app/features/chart/presentation/cubit/chart_state.dart';
 
 import '../../../../core/errors/failure.dart';
 

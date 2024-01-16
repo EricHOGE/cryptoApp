@@ -1,4 +1,4 @@
-import 'package:crypto/features/crypto/data/models/cryptos_response_model.dart';
+import 'package:crypto_app/features/crypto/data/models/cryptos_response_model.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 

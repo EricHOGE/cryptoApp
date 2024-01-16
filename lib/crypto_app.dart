@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 import 'features/crypto/presentation/pages/cryptos_page.dart';
 
@@ -19,9 +18,4 @@ class CryptoApp extends StatelessWidget {
       home: CryptosPage(),
     );
   }
-}
-
-Future main() async {
-  await dotenv.load(fileName: ".env");
-  runApp(const CryptoApp());
 }
